@@ -1,0 +1,13 @@
+langchain
+langchain-classic
+langchain-community
+langchain-text-splitters
+langchain-chroma
+langchain-groq
+chromadb
+sentence-transformers
+unstructured[pdf]
+langsmith
+gradio
+requests
+python-dotenv
